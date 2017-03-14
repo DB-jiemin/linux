@@ -1,0 +1,6 @@
+linux目录结构:
+    bin src
+
+/etc/hosts
+    主机名配置文件 
+    格式:<ip>	<hostname>
